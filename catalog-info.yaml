@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: easybuggy
+  annotations:
+    github.com/project-slug: mend-scalac/easybuggy
+spec:
+  type: service
+  lifecycle: unknown
+  owner: dariuszsobkowicz
